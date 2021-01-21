@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 
-
+//WEWEWEWE
 /**
  * A register holding all proerties/real estates in a municipality.
  * Properties can be added to the register, and searched for by the 
