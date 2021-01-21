@@ -9,6 +9,8 @@ package no.ntnu.idatx2001.realestateapp;
  * 
  * @author asty
  */
+
+// test commit github
 public class Property
 {
     private final int municipalityNumber; //A number between 101 (Halden) and 5054 (Indre Fosen)
